@@ -1,0 +1,14 @@
+
+-- INSERT TABLE
+INSERT INTO movie
+VALUES
+(1, 'Toy Story', 'John Lasseter', 1995, 81),
+(2, 'A Bug''s Life', 'John Lasseter', 1998, 95),
+(3, 'Toy Story 2', 'John Lasseter', 1999, 93),
+(4, 'Monsters, Inc.', 'Pete Docter', 2001, 92),
+(5, 'Finding Nemo', 'Andrew Stanton', 2003, 107),
+(6, 'The Incredibles', 'Brad Bird', 2004, 116);
+
+
+-- SELECT ALL 
+SELECT * FROM movie;
